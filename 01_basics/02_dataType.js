@@ -19,5 +19,12 @@ let isLogedIn = true;
 // 2 number = 2 to 53;
 // 3 bigint = 53 se uper;
 // 4 Boolean = true/flase;
-// 5 Null = value nhi hai;
+// 5 Null = value nhi hai; empty value-- stanloan value
 // 6 undefind = value difined nhi ki 
+// 7 symbol = unique
+
+
+// object 
+
+// console.log(typeof undefined) // undefined
+// console.log(typeof null) // object 
